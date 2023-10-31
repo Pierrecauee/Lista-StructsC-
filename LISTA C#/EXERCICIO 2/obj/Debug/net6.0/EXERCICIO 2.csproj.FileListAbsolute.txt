@@ -1,0 +1,4 @@
+C:\Users\User-01\OneDrive\Área de Trabalho\LISTA C#\EXERCICIO 2\obj\Debug\net6.0\EXERCICIO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-01\OneDrive\Área de Trabalho\LISTA C#\EXERCICIO 2\obj\Debug\net6.0\EXERCICIO 2.AssemblyInfoInputs.cache
+C:\Users\User-01\OneDrive\Área de Trabalho\LISTA C#\EXERCICIO 2\obj\Debug\net6.0\EXERCICIO 2.AssemblyInfo.cs
+C:\Users\User-01\OneDrive\Área de Trabalho\LISTA C#\EXERCICIO 2\obj\Debug\net6.0\EXERCICIO 2.csproj.CoreCompileInputs.cache
